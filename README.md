@@ -2,7 +2,7 @@
 
 This is a Kaggle machine learning project focused on predicting EV purchase intention.
 
-I compared Logistic Regression, Random Forest, and XGBoost using 5-fold cross-validation, then used SHAP to interpret the main factors influencing model predictions.
+I compared Logistic Regression, Random Forest, and XGBoost using 5-fold cross-validation, then used SHAP to interpret the main factors influencing model predictions. AI tools were used for coding assistance and debugging.
 
 ## Results
 
